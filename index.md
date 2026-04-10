@@ -10,7 +10,7 @@
 - **Name:** Yujin Jeong
 - **Email:** juj031011@naver.com
 - **GitHub:** [github.com/YUJIN-zz](https://github.com/YUJIN-zz)
-- **Deployed CV:** [ ]( )
+- **Deployed CV:** [github.io/future-cv](https://yujin-zz.github.io/future-cv/)
 
 ## Summary
 
