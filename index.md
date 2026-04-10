@@ -1,3 +1,8 @@
+---
+layout: default
+title: Future CV
+---
+
 # Future CV — Yujin Jeong
 
 > 이것은 학문적 실천을 위해 만들어진 가상의 미래 이력서입니다.
